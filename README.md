@@ -6,13 +6,13 @@
  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/2
 - [x] #03 idセレクター､全称セレクターを使おう  
  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/3
-- [x] #04 属性セレクターを使ってみよう
+- [x] #04 属性セレクターを使ってみよう  
  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/4
-- [ ] #05 セレクターを組み合わせてみよう
-- [ ] #06 ::before､::after擬似要素を使おう
-- [ ] #07 :hover擬似クラスを使ってみよう
-- [ ] #08 :nth-child擬似クラスを使おう
-- [ ] #09 :nth-of-type擬似クラスを使おう
-- [ ] #10 :empty､:not擬似クラスを使おう
-- [ ] #11 詳細度を計算してみよう
-- [ ] #12 優先されるスタイルを確認しよう 
+- [ ] #05 セレクターを組み合わせてみよう  
+- [ ] #06 ::before､::after擬似要素を使おう  
+- [ ] #07 :hover擬似クラスを使ってみよう  
+- [ ] #08 :nth-child擬似クラスを使おう  
+- [ ] #09 :nth-of-type擬似クラスを使おう  
+- [ ] #10 :empty､:not擬似クラスを使おう  
+- [ ] #11 詳細度を計算してみよう  
+- [ ] #12 優先されるスタイルを確認しよう   
