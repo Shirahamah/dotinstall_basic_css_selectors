@@ -1,5 +1,3 @@
-# dotinstall_basic_css_selectors
-
 ## 詳解CSS セレクター編 (全12回) 進捗確認
 
 - [ ] #01 CSSの基本セレクターを学んでいこう  
