@@ -1,7 +1,9 @@
 ## 詳解CSS セレクター編 (全12回) 進捗確認
 
 - [x] #01 CSSの基本セレクターを学んでいこう  
-- [ ] #02 要素型セレクター､classセレクターを使おう
+### https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/1
+- [x] #02 要素型セレクター､classセレクターを使おう
+### https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/2
 - [ ] #03 idセレクター､全称セレクターを使おう
 - [ ] #04 属性セレクターを使ってみよう
 - [ ] #05 セレクターを組み合わせてみよう
