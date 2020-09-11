@@ -12,7 +12,8 @@
  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/5
 - [x] #06 ::before､::after擬似要素を使おう  
  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/6
-- [ ] #07 :hover擬似クラスを使ってみよう  
+- [x] #07 :hover擬似クラスを使ってみよう  
+ https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/7
 - [ ] #08 :nth-child擬似クラスを使おう  
 - [ ] #09 :nth-of-type擬似クラスを使おう  
 - [ ] #10 :empty､:not擬似クラスを使おう  
