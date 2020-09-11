@@ -8,7 +8,8 @@
  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/3
 - [x] #04 属性セレクターを使ってみよう  
  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/4
-- [ ] #05 セレクターを組み合わせてみよう  
+- [x] #05 セレクターを組み合わせてみよう  
+ https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/5
 - [ ] #06 ::before､::after擬似要素を使おう  
 - [ ] #07 :hover擬似クラスを使ってみよう  
 - [ ] #08 :nth-child擬似クラスを使おう  
