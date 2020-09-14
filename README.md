@@ -15,7 +15,8 @@
 - [x] #07 :hover擬似クラスを使ってみよう  
  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/7
 - [ ] #08 :nth-child擬似クラスを使おう  
-- [ ] #09 :nth-of-type擬似クラスを使おう  
+- [x] #09 :nth-of-type擬似クラスを使おう  
+ https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/9
 - [ ] #10 :empty､:not擬似クラスを使おう  
 - [ ] #11 詳細度を計算してみよう  
 - [ ] #12 優先されるスタイルを確認しよう   
