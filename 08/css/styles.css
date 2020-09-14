@@ -5,8 +5,8 @@
 main > :nth-child(3n) {
     background: pink;
 } */
-/* 
-main > :nth-child(odd) {
+
+/* main > :nth-child(odd) {
     background: pink;
 }
 
