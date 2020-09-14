@@ -16,7 +16,9 @@
  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/7
 - [x] #08 :nth-child擬似クラスを使おう  
   https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/8
-- [ ] #09 :nth-of-type擬似クラスを使おう  
-- [ ] #10 :empty､:not擬似クラスを使おう  
+- [x] #09 :nth-of-type擬似クラスを使おう  
+  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/9
+- [x] #10 :empty､:not擬似クラスを使おう  
+  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/10
 - [ ] #11 詳細度を計算してみよう  
 - [ ] #12 優先されるスタイルを確認しよう   
