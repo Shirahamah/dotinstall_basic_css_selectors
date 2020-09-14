@@ -1,0 +1,8 @@
+/* li:empty {
+    background: skyblue;
+} */
+
+
+li:not(:empty) {
+    background: skyblue;
+}
