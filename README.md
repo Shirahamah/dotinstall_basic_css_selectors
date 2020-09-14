@@ -24,4 +24,3 @@
  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/11
 - [ ] #12 優先されるスタイルを確認しよう  
  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/12
-
