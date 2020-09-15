@@ -22,5 +22,6 @@
   https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/10
 - [ ] #11 詳細度を計算してみよう  
  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/11
-- [ ] #12 優先されるスタイルを確認しよう  
- https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/12
+- [x] #12 優先されるスタイルを確認しよう  
+  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/12
+
