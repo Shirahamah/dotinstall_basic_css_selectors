@@ -15,12 +15,12 @@
 - [x] #07 :hover擬似クラスを使ってみよう  
  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/7
 - [x] #08 :nth-child擬似クラスを使おう  
-  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/8
+ https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/8
 - [x] #09 :nth-of-type擬似クラスを使おう  
-  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/9
+ https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/9
 - [x] #10 :empty､:not擬似クラスを使おう  
-  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/10
+ https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/10
 - [x] #11 詳細度を計算してみよう  
-  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/11
+ https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/11
 - [ ] #12 優先されるスタイルを確認しよう  
  https://github.com/Shirahamah/dotinstall_basic_css_selectors/issues/12
